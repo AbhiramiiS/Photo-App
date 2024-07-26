@@ -1,5 +1,5 @@
 import React from 'react'
-
+import navbar from'./navbar'
 const view = () => {
 
         const [data,changeData]=useState(
